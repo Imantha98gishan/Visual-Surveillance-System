@@ -4,4 +4,4 @@ This system works with ESP32-powered microcontrollers and its main functionaliti
 *Recognizing Faces <br/>
 
 Experimental Hardware Model <br/>
-![Hardware model](./20250126_190506.jpg =250x250)
+![Hardware model](./20250126_190506.jpg {width=40px height=400px})
